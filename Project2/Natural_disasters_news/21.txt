@@ -1,0 +1,56 @@
+'Grave step backwards': Meta shuts monitoring tool in election year
+Logo of Meta, the US company that owns and operates Facebook, Instagram, Threads, and WhatsApp. -AFP/Fabrice COFFRINI
+WASHINGTON: A digital tool considered vital in tracking viral falsehoods, CrowdTangle will be decommissioned by Facebook owner Meta in a major election year, a move researchers fear will disrupt efforts to detect an expected firehose of political misinformation.
+
+The tech giant says CrowdTangle will be unavailable after August 14, less than three months before the US election. The Palo Alto company plans to replace it with a new tool that researchers say lacks the same functionality, and which news organisations will largely not have access to.
+
+For years, CrowdTangle has been a game-changer, offering researchers and journalists crucial real-time transparency into the spread of conspiracy theories and hate speech on influential Meta-owned platforms, including Facebook and Instagram.
+
+Killing off the monitoring tool, a move experts say is in line with a tech industry trend of rolling back transparency and security measures, is a major blow as dozens of countries hold elections this year – a period when bad actors typically spread false narratives more than ever.
+
+MORE NEWS
+Meta, Amazon beat expectations with stellar results
+Meta sued in Japan over celebrity investment scams
+Facebook: From Harvard dorm to scandal-plagued social media titan
+Jokowi issues president's decree to protect media rights against Google, Meta and other tech giants
+"In a year where almost half of the global population is expected to vote in elections, cutting off access to CrowdTangle will severely limit independent oversight of harms," Melanie Smith, director of research at the Institute for Strategic Dialogue, told AFP.
+
+"It represents a grave step backwards for social media platform transparency."
+
+Meta is set to replace CrowdTangle with a new Content Library, a technology still under development.
+
+It's a tool that some in the tech industry, including former CrowdTangle chief executive Brandon Silverman, said is currently not an effective replacement, especially in elections likely to see a proliferation of AI-enabled falsehoods.
+
+"It's an entire new muscle" that Meta is yet to build to protect the integrity of elections, Silverman told AFP, calling for "openness and transparency."
+
+In recent election cycles, researchers say CrowdTangle alerted them to harmful activities including foreign interference, online harassment and incitements to violence.
+
+By its own admission, Meta – which bought CrowdTangle in 2016 – said that in 2019 elections in Louisiana, the tool helped state officials identify misinformation, such as inaccurate poll hours that had been posted online.
+
+In the 2020 presidential vote, the company offered the tool to US election officials across all states to help them "quickly identify misinformation, voter interference and suppression."
+
+The tool also made dashboards available to the public to track what major candidates were posting on their official and campaign pages.
+
+Lamenting the risk of losing these functions forever, global nonprofit Mozilla Foundation demanded in an open letter to Meta that CrowdTangle be retained at least until January 2025.
+
+"Abandoning CrowdTangle while the Content Library lacks so much of CrowdTangle's core functionality undermines the fundamental principle of transparency," said the letter signed by dozens of tech watchdogs and researchers.
+
+The new tool lacks CrowdTangle features including robust search flexibility and decommissioning it would be a "direct threat" to the integrity of elections, it added.
+
+Meta spokesperson Andy Stone said the letter's claims are "just wrong," insisting the Content Library will contain "more comprehensive data than CrowdTangle" and be made available to academics and non-profit election integrity experts.
+
+Meta, which has been moving away from news across its platforms, will not make the new tool accessible to for-profit media.
+
+Journalists have used CrowdTangle in the past to investigate public health crises as well as human rights abuses and natural disasters.
+
+Meta's decision to cut off journalists comes after many used CrowdTangle to report unflattering stories, including its flailing moderation efforts and how its gaming app was overrun with pirated content.
+
+CrowdTangle has been a crucial source of data that helped "hold Meta accountable for enforcing its policies," Tim Harper, a senior policy analyst at the Center for Democracy & Technology, told AFP.
+
+Organisations that debunk misinformation as part of Meta's third-party fact-checking program, including AFP, will have access to the Content Library.
+
+But other researchers and nonprofits will have to apply for access or look for expensive alternatives. Two researchers told AFP under condition of anonymity that in one-on-one meetings with Meta officials, they demanded firm commitments from company officials.
+
+"While most fact-checkers already working with Meta will have access to the new tool, it's not super clear if many independent researchers – already worried about losing CrowdTangle's functionality – will," Carlos Hernandez-Echevarria, head of the Spanish nonprofit Maldita, told AFP.
+
+"It has generated a lot of concerns." --AFP
